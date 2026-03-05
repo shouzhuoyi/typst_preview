@@ -9,11 +9,7 @@
 git clone <your-repo-url>
 cd typst_preview
 
-# 2. 运行初始化脚本（会自动克隆 libtypst、检查 Rust、编译库）
-./scripts/setup_project.sh
-
-# 3. 打开 Xcode 并配置（见下方）
-open typst_preview.xcodeproj
+# 2. 在 Xcode 运行
 ```
 ## 📁 项目结构
 
